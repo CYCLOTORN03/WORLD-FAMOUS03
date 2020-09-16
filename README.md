@@ -1,2 +1,2 @@
-# WORLD-FAMOUS03
-NEW AS NEWBIE / OLD AS NERD
+# Python Sample
+This Is My First Sample File On Git_Hub.
